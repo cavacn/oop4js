@@ -6,7 +6,7 @@
         Email:  admin@cavacn.com
     */
     var Class = function(){}
-    Class.version = "0.1";
+    Class.version = "0.0.1";
     Class.author = "cava.zhang";
     Class.email = "admin@cavacn.com";
     Class.prototype.$ = function(){

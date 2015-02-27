@@ -1,6 +1,6 @@
 {
   "name": "oop4js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "面向对象思想，JS实现",
   "main": "class.js",
   "scripts": {
@@ -22,5 +22,5 @@
     "url": "https://github.com/cavacn/oop4js/issues"
   },
   "homepage": "https://github.com/cavacn/oop4js",
-  "ReadMeFile":"README.md"
+  "ReadMeFile": "README.md"
 }

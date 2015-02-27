@@ -1,0 +1,26 @@
+{
+  "name": "oop4js",
+  "version": "0.0.2",
+  "description": "面向对象思想，JS实现",
+  "main": "class.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cavacn/oop4js.git"
+  },
+  "keywords": [
+    "class",
+    "oop",
+    "js",
+    "oop4js"
+  ],
+  "author": "cava.zhang",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/cavacn/oop4js/issues"
+  },
+  "homepage": "https://github.com/cavacn/oop4js",
+  "ReadMeFile":"README.md"
+}

@@ -6,16 +6,15 @@
         Email:  admin@cavacn.com
     */
     var Class = function(){}
-    Class.version = "0.0.1";
+    Class.version = "0.0.5";
     Class.author = "cava.zhang";
     Class.email = "admin@cavacn.com";
-    Class.prototype.$ = function(){
-        
-    }
-    
+    Class.prototype.$ = function(){}
     Class.extends = function(classname,obj){
         var fn = function(){
             if(!!arguments[0]&&this.$){
+                this.$.apply(this,arguments);             
+            }else{
                 this.super("$",arguments);
             }
         }
